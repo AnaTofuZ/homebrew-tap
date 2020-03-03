@@ -1,4 +1,4 @@
-class CbCGcc < Formula
+class CbcGcc < Formula
   desc "GNU compiler collection"
   homepage "https://gcc.gnu.org/"
   url  "http://www.cr.ie.u-ryukyu.ac.jp/hg/CbC/CbC_gcc", using: :hg
